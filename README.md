@@ -39,6 +39,12 @@ HLT;
 ```
 ## Theory:
 
+<img width="905" height="1320" alt="image" src="https://github.com/user-attachments/assets/0ffbecbf-6f6e-4941-8fbd-1e8d110b143d" />
+
+<img width="838" height="1599" alt="image" src="https://github.com/user-attachments/assets/52d865fb-7948-46bb-b320-69bff4d5b2ce" />
+
+<img width="1289" height="745" alt="image" src="https://github.com/user-attachments/assets/1217eba1-aa71-44c1-8e18-b9e4e70ac8ae" />
+
 
 ## Output:
 
@@ -78,6 +84,12 @@ HLT;
 ```
 
 ## Theory:
+
+<img width="1516" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b0a482b-dc06-4f3d-9127-9d26388e4e84" />
+
+<img width="938" height="1501" alt="image" src="https://github.com/user-attachments/assets/12f37a83-0264-4146-bbb6-827784419a80" />
+
+<img width="1456" height="1600" alt="image" src="https://github.com/user-attachments/assets/32839527-032b-45df-8c44-2d2f5f98fc33" />
 
 
 ## Output:
